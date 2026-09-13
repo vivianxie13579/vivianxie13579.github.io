@@ -1,0 +1,37 @@
+# ─────────────────────────────────────────────
+#  Author configuration — edit this file first!
+# ─────────────────────────────────────────────
+
+name: Jane Doe
+name_display: Jane DOE
+role: Your Job Title
+tagline: "Skill A | Skill B | Skill C"
+# Profile picture — replace with your own (recommended: square ~300x300).
+# Out of the box: a self-hosted DiceBear avatar (lorelei style, ~5KB SVG).
+# Convention: drop personal images in assets/about/ to keep the asset tree tidy.
+photo: assets/about/photo.svg
+photo_alt: "Profile picture of the site author"
+linkedin: https://www.linkedin.com/in/your-profile/
+github: https://github.com/your-username
+email_user: your.email
+email_domain: example.com
+bio: >-
+  Write your bio here. Tell us who you are, what you do, and why you
+  created this site. You can use <br /> for line breaks.
+sign_off: "See you soon! - Jane DOE"
+# Interests — each one shows a hover preview image and opens fullscreen on click.
+# The example uses random thematic photos from loremflickr (locked seed for
+# stability). Replace with your own files in assets/about/ when ready.
+interests:
+  - label: Photography
+    image: https://loremflickr.com/600/400/camera,photography?lock=111
+    separator: ","
+  - label: hiking
+    image: https://loremflickr.com/600/400/hiking,mountain?lock=112
+    separator: ","
+  - label: cooking
+    image: https://loremflickr.com/600/400/cooking,kitchen?lock=113
+    separator: ","
+  - label: open source
+    image: https://loremflickr.com/600/400/code,laptop?lock=114
+    separator: "."

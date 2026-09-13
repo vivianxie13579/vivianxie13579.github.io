@@ -1,0 +1,12 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+/vendor/
+.claude/
+.vscode/
+
+
+# Local test posts
+_posts/2026-03-15-test-images.md
+_posts/2026-03-25-Test-tableau.md
