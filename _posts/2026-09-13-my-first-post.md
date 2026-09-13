@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dario Amodei 3,800字 Essay 全文：We Must Pace the Frontier（我们必须控制前沿 AI 的发展节奏）"
+title: "Dario Amodei 3,800字 Essay 全文：We Must Pace the Frontier<br>（我们必须控制前沿 AI 的发展节奏）"
 date: 2026-09-13
 ---
 >今天看到《纽约时报》刊登了一篇关于人工智能发展速度的报道，提到 Anthropic CEO Dario Amodei 公开呼吁放慢人工智能的发展速度。Amodei 多年来一直关注 AI 的安全问题，但这一次的文章尤其受到关注。《纽约时报》称，这可能是迄今为止一家主要 AI 公司高管对这一问题最直接、最强烈的公开呼吁之一。文章发表后，OpenAI CEO Sam Altman、Elon Musk 和 Google DeepMind 主席 Demis Hassabis 也先后表达了对放慢发展速度这一观点的认同。Amodei 并不是简单地提出“暂停 AI”，而是试图讨论一个更具体的问题：在人工智能能力快速发展的同时，如何给安全研究、测试、评估以及国际协调留出足够的时间。
