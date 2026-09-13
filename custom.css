@@ -101,3 +101,11 @@ body {
 .article-content p {
   margin-bottom: 1.2em;
 }
+/* Smaller article title */
+
+article h1,
+.post h1 {
+  font-size: 2.2rem !important;
+  line-height: 1.25 !important;
+  font-weight: 600 !important;
+}
