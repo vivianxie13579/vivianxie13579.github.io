@@ -69,3 +69,35 @@
    Add your own custom styles below this line.
    Example: change the footer font size, tweak card padding, etc.
    ───────────────────────────────────────────────────────────── */
+/* Personal blog style */
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+.post-title,
+.article-title {
+  font-size: 2.6rem;
+  line-height: 1.2;
+  font-weight: 700;
+}
+
+.post-content,
+.article-content {
+  font-size: 18px;
+  line-height: 1.9;
+}
+
+.post-content img,
+.article-content img {
+  max-width: 80%;
+  height: auto;
+  display: block;
+  margin: 30px auto;
+  border-radius: 8px;
+}
+
+.post-content p,
+.article-content p {
+  margin-bottom: 1.2em;
+}
